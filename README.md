@@ -1,8 +1,8 @@
-## Hi, I'm Ranjana Prajapati
+# Hi, I'm Ranjana Prajapati
 
-🎓 Engineering Student  
-💻 Learning GitHub & Programming  
-⚡ Interested in Electronics & Technology  
+ ~ Engineering Student  
+ ~ Learning GitHub & Programming  
+ ~ Interested in Electronics & Technology  
 
 ## Skills
 - C / C++
